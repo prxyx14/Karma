@@ -1,1 +1,67 @@
- mm
+.p {
+    background-image: url(image/4719634-modified.png);
+    background-color: darkseagreen;
+    width: 1300px;
+    background-size: 300px;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.k {
+    font-family: 'Lobster';
+    text-align: center;
+}
+
+.k2 {
+    background-image: url(image/karma2.jpeg);
+    background-color: darkseagreen;
+    height: 400px;
+    width: 1300px;
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.box {
+    background: linear-gradient(105deg, rgba(219, 9, 96, 0.972) 39%, rgb(5, 215, 230) 76%) center center / 400px 200px no-repeat, url(big-star.png) center no-repeat, darkseagreen;
+}
+
+.our {
+    font-family: 'Dancing script';
+}
+
+.why {
+    font-family: 'Akaya Telivigala';
+}
+
+.con {
+    font-family: 'Kaushan script';
+    font-size: 30px;
+    font-style: italic;
+}
+
+h4:hover {
+    color: crimson;
+}
+
+.join {
+    font-family: 'Festive';
+    font-size: 35px;
+}
+
+.joinimg {
+    background-image: url(image/join-modified.png);
+    background-color: darkseagreen;
+    height: 450px;
+    width: 1250px;
+    background-size: 400px;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.body {
+    padding: 30px;
+    border: 10px double rgb(245, 29, 29);
+    margin: 7.5px;
+}
